@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/79a0e0821a00ac7c48e9d8b3884a5d95f74d3441/Euron%EC%B4%88%EA%B8%89%EC%84%B8%EC%85%98_3%EC%A1%B0_3%EC%A3%BC%EC%B0%A8.pdf)
 - 발표자: 3팀(도하연, 김소은, 황사현, 김수연)
 - 파머완 4장. 분류 - Part 1(4.1 ~ 4.4장)
   - 분류 개요
