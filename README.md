@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/5b121fcc393f1dabdc0c6824628af71cd6683abe/Euron_4%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(김선향, 정현빈, 권나영, 박혜진)
 - 파머완 4장. 분류 - Part 2(4.5장 ~ 4.7장, 4.10장)
   - 부스팅 계열
