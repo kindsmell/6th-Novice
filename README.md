@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/50de2c9caa769ba4e780c13e950fb258e7955d7e/Euron%EC%B4%88%EA%B8%89%ED%8C%80_5%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_2%EC%A1%B0.pdf)
 - 발표자: 2팀(이채원, 문원정, 조주현, 김정은)
 - 파머완 4장 실습 + 캐글 필사
   - 캐글 산탄데르 고객 만족 예측
