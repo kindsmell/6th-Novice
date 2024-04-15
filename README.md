@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/04d13d8cbd64a21a0acc1bebce90a4a7bead9431/2%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%2C%20%ED%8F%89%EA%B0%80.pdf)
 - 발표자: 2팀(이채원, 문원정, 조주현, 김정은)
 - 파머완 2장. 사이킷런으로 시작하는 머신러닝
   - 사이킷런 소개/특징
