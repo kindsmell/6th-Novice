@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/c84a9e8e0d1ef90194f5b0bcdb8d0ed228b540b1/11%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C(%EC%88%98%EC%A0%95).pdf)
 - 발표자: 3팀(도하연, 김소은, 황사현, 김수연)
 - 파머완 7장. 군집화(7.1 ~ 7.6장)
   - KMeans
