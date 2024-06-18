@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/5ffecc0f8f51d16d4ea397b2956a58b6f35c6c1b/Week%2015_%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 이채원, 문원정, 조주현, 김정은
 - 파머완 8장. 텍스트 분석 - Part 2(8.6장 ~ 8.9장)  
   - 토픽 모델링
